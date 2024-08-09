@@ -106,7 +106,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "August 2019 - July 2022",
     points: [
-      "While my professional work experience may be limited, I am proud of my academic accomplishments. Last year, I graduated in the highest possible class (Sek E/A) in SA Auen Frauenfeld.",
+      "While my professional work experience may be limited, I am proud of my academic accomplishments. 2922, I graduated in the highest possible class (Sek E/A) in SA Auen Frauenfeld.",
       "Throughout my academic journey, I consistently maintained commendable grades and demonstrated a strong commitment to perfection.",
       "I also earned a first English diploma, which reflects my proficiency in the language.",
       "Though my work experience is just beginning, my dedication to academic excellence and language proficiency forms a solid foundation for my professional journey.",
@@ -122,7 +122,7 @@ const experiences = [
       "In August 2023, I started with my first apprenticeship as a Zeichner EFZ Fachrichtung Ingenieurbau.",
       "I gained valuable experience working with programs like AUTOCAD, CIVIL, and other 3D CAD software.",
       "While the experience was enriching, I realized that this career path wasn't the perfect fit for me.",
-      "After approximately 8 months of working in the NRPAG I made the decision to explore other opportunities that align more closely with my interests and passions.",
+      "After approximately 8-9 months of working in the NRPAG I made the decision to explore other opportunities that align more closely with my interests and passions.",
     ],
   },
   {
@@ -134,8 +134,8 @@ const experiences = [
     points: [
       "After departing from NRPAG, I made the decision to return to school and enrolled in the 10th year of education.",
       "In my journey of exploration, I also ventured into the realm of e-commerce. While engaging with Shopify, I discovered an irresistible fascination with website building and Data Analysis.",
-      "During this time,I began freelancing and utilizing my skills to create websites for various companies responsive design and Search engine optimization.",
-      "The prospect of becoming a Entwickler became a driving force behind my pursuits, and I became dedicated to developing my expertise in this area.",
+      "During this time, I began freelancing and utilizing my skills to create websites for various companies responsive design and Search engine optimization.",
+      "The prospect of becoming an «EDB» became a driving force behind my pursuits, and I became dedicated to developing my expertise in this area.",
     ],z
   },
   {
@@ -146,9 +146,9 @@ const experiences = [
     date: "August 2024 - Present",
     points: [
       "I started in August with my Apprenticeship as «Entwickler Digitales Business» in Swisscom, thats when the enlightened flame became a burning Blaze.",
-      "In addition to web development, I discovered an interest in Analysis and Project Management. This new found section has driven me to explore and enhance my skills in this creative field.",
-      "As part of my pursuit of the Entwickler apprenticeship, I took the initiative to code and design this website. It stands as a compelling representation of my proficiency in web development and video editing. This portfolio serves as a testament to my dedication and commitment to building a career in media and marketing. Implementing responsive design and ensuring cross-browser compatibility.",
-      "With this portfolio in hand, I am currently on the lookout for the perfect Swisscom Project opportunity for the year 2025. I am excited to bring my versatile skill set and passion for web, Ai development and more to a dynamic team and contribute meaningfully to the ever-evolving world of media.",
+      "In addition to web development, I discovered an interest in Analysis and Project Management in my first Project as Scrum Master. This new found section has driven me to explore and enhance my skills in this creative field.",
+      "As part of my pursuit of the «Entwickler apprenticeship», I took the initiative to code and design this website. It stands as a compelling representation of my proficiency in web development and passion. This portfolio serves as a testament to my dedication and commitment to building a career in media, marketing and Data Analysis. Implementing responsive design and ensuring cross-browser compatibility.",
+      "With this portfolio in hand, I am currently on the lookout for the perfect Swisscom Project opportunity for the february 2025. I am excited to bring my versatile skill set and passion for web, Ai development and more to a dynamic team and contribute meaningfully to the ever-evolving world of media.",
     ],
   },
 ];
