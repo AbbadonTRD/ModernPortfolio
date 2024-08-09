@@ -106,7 +106,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "August 2019 - July 2022",
     points: [
-      "While my professional work experience may be limited, I am proud of my academic accomplishments. 2922, I graduated in the highest possible class (Sek E/A) in SA Auen Frauenfeld.",
+      "While my professional work experience may be limited, I am proud of my academic accomplishments. 2022, I graduated in the highest possible class (Sek E/A) in SA Auen Frauenfeld.",
       "Throughout my academic journey, I consistently maintained commendable grades and demonstrated a strong commitment to perfection.",
       "I also earned a first English diploma, which reflects my proficiency in the language.",
       "Though my work experience is just beginning, my dedication to academic excellence and language proficiency forms a solid foundation for my professional journey.",
