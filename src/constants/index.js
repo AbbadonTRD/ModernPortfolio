@@ -80,7 +80,7 @@ const technologies = [
     name: "React JS",
     icon: reactjs,
   },
- 
+
   {
     name: "Tailwind CSS",
     icon: tailwind,
@@ -95,7 +95,6 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
- 
 ];
 
 const experiences = [
@@ -136,7 +135,7 @@ const experiences = [
       "In my journey of exploration, I also ventured into the realm of e-commerce. While engaging with Shopify, I discovered an irresistible fascination with website building and Data Analysis.",
       "During this time, I began freelancing and utilizing my skills to create websites for various companies responsive design and Search engine optimization.",
       "The prospect of becoming an «EDB» became a driving force behind my pursuits, and I became dedicated to developing my expertise in this area.",
-    ],z
+    ],
   },
   {
     title: "Start in Swisscom",
@@ -171,8 +170,7 @@ const testimonials = [
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
-    testimonial:
-      "It's my Work and I love it!",
+    testimonial: "It's my Work and I love it!",
     name: "Tiago Carvalho de Cevallos",
     designation: "Potential Entwickler Digitales Business",
     company: "Swisscom",
@@ -183,8 +181,7 @@ const testimonials = [
 const projects = [
   {
     name: "LT MEDIA",
-    description:
-      "Website for LT Media which is currently getting reworked on.",
+    description: "Website for LT Media which is currently getting reworked on.",
     tags: [
       {
         name: "react",
@@ -204,8 +201,7 @@ const projects = [
   },
   {
     name: "SEO",
-    description:
-      "Currently helping with SEO for Dermakos.",
+    description: "Currently helping with SEO for Dermakos.",
     tags: [
       {
         name: "react",
@@ -242,7 +238,8 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://www.figma.com/community/file/1227655988294353116",
+    source_code_link:
+      "https://www.figma.com/community/file/1227655988294353116",
   },
 ];
 
